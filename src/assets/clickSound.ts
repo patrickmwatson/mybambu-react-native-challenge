@@ -1,0 +1,3 @@
+// Base64 encoded click sound
+// This is a very short, subtle click sound suitable for UI feedback
+export const CLICK_SOUND_BASE64 = 'data:audio/wav;base64,UklGRnoGAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YQoGAACBhYqFbF1fdJivrJBhNjVgodDbq2EcBj+a2/LDciUFLIHO8tiJNwgZaLvt559NEAxQp+PwtmMcBjiR1/LMeSwFJHfH8N2QQAoUXrTp66hVFApGn+DyvmwhBSp9x+/gkUMKFl2y6+2pWBULRpzg8r9vIAYre8fv4ZVGChZWqOztsFoXC0OY3/LAcyEEInTC7+OYTAoVVqXq7bJdGAo/lN/ywXUjBChwxu7llEwKFVOj6+22YBoKPJLc88N9IwUmZsDu5phQCRFMnOn.... (truncated for brevity)';
